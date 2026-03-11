@@ -1,0 +1,17 @@
+{
+  "daily_start": "2000-01-14",
+  "daily_end": "2026-03-02",
+  "monthly_end": "2026-02-28",
+  "full_beta_current_oil": 0.014073412378617072,
+  "full_beta_current_oil_p": 0.005682865300129228,
+  "pre2022_beta_current_oil": 0.01615544231442184,
+  "pre2022_beta_current_oil_p": 0.009359022977908436,
+  "post2022_beta_current_oil": 0.003853228831792864,
+  "post2022_beta_current_oil_p": 0.7088294718783561,
+  "cointegration_pre2022_p": 0.10513699062215554,
+  "cointegration_full_p": 0.22663649142137376,
+  "ecm_lambda": -0.02999755432720317,
+  "ecm_lambda_p": 0.07135056888723927,
+  "long_run_oil_coef": 0.1960508453642238,
+  "long_run_oil_p": 7.617911141495804e-56
+}

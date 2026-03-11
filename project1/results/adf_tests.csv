@@ -1,0 +1,5 @@
+series,sample,adf_stat,p_value
+log EUR/USD level,1999-01 to latest complete month,-1.9383827252804908,0.3142255762582264
+log Brent level,1999-01 to latest complete month,-2.887236630282154,0.04685246228814579
+EUR/USD log return,1999-02 to latest complete month,-11.537997562902081,3.692963199937297e-21
+Brent log return,1999-02 to latest complete month,-12.712995044329007,1.020573539503582e-23

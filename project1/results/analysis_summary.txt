@@ -1,0 +1,8 @@
+Project 1 analytical summary
+Daily sample: 2000-01-14 to 2026-03-02
+Monthly sample ends at: 2026-02-28
+Full-sample daily oil coefficient: 0.0141 (p=0.0057)
+Pre-2022 daily oil coefficient: 0.0162 (p=0.0094)
+2022+ daily oil coefficient: 0.0039 (p=0.7088)
+Cointegration p-value for 1999-2021: 0.1051
+ECM adjustment coefficient: -0.0300 (p=0.0714)
